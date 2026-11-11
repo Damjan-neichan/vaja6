@@ -24,3 +24,5 @@ while true:
   if number==False:
       print("Password must contain a number.")
       valid=False
+  else:
+     print("\nIvalid password. try again")
